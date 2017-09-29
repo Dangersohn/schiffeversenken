@@ -1,0 +1,7 @@
+.root{
+ -fx-background-image: url("grafics/flagge.jpg");      
+}
+
+ .button{ 
+ -fx-background-image: url("grafics/fog.png");
+}
